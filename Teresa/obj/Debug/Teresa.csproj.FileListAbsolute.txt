@@ -1,0 +1,16 @@
+D:\temp\Selenium\dotnet\src\Teresa\obj\Debug\Teresa.csprojResolveAssemblyReference.cache
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\Teresa.dll
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\Teresa.pdb
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\WebDriver.dll
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\Newtonsoft.Json.dll
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\Ionic.Zip.dll
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\WebDriver.pdb
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\WebDriver.xml
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\Newtonsoft.Json.pdb
+D:\temp\Selenium\dotnet\src\Teresa\bin\Debug\Newtonsoft.Json.xml
+D:\temp\Selenium\dotnet\src\Teresa\obj\Debug\Teresa.dll
+D:\temp\Selenium\dotnet\src\Teresa\obj\Debug\Teresa.pdb
+C:\Users\USER\Desktop\TERESA\Teresa\obj\Debug\Teresa.dll
+C:\Users\USER\Desktop\TERESA\Teresa\obj\Debug\Teresa.pdb
+C:\Users\USER\Desktop\TERESA\Teresa\bin\Debug\Teresa.dll
+C:\Users\USER\Desktop\TERESA\Teresa\bin\Debug\Teresa.pdb

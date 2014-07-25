@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teresa", "Teresa.csproj", "{253E4772-C30F-4077-9CC5-5E0019AB8867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeresaUnitTesting", "..\TeresaUnitTesting\TeresaUnitTesting.csproj", "{08145D17-F936-4C49-AEFE-155CA779BD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeresaExample", "..\TeresaExample\TeresaExample.csproj", "{C65ED012-63A4-4A5A-B658-7EC2644CB012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253E4772-C30F-4077-9CC5-5E0019AB8867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253E4772-C30F-4077-9CC5-5E0019AB8867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253E4772-C30F-4077-9CC5-5E0019AB8867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253E4772-C30F-4077-9CC5-5E0019AB8867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08145D17-F936-4C49-AEFE-155CA779BD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08145D17-F936-4C49-AEFE-155CA779BD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08145D17-F936-4C49-AEFE-155CA779BD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08145D17-F936-4C49-AEFE-155CA779BD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65ED012-63A4-4A5A-B658-7EC2644CB012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65ED012-63A4-4A5A-B658-7EC2644CB012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65ED012-63A4-4A5A-B658-7EC2644CB012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65ED012-63A4-4A5A-B658-7EC2644CB012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

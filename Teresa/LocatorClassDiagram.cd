@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Teresa.EnumExtension" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAgAAIBgCICAAAAACAAAAABIEAAAAAAgAAAACAA=</HashCode>
+      <FileName>AdvancedEnum\EnumExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.EnumMemberAttribute" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CDAACAgBAAAoAACEIAAAAAgQCAIIEAAAAAAgQAAACAA=</HashCode>
+      <FileName>AdvancedEnum\EnumMemberAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.EnumTypeAttribute" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAgAAAAAIAAEEAAAAAAAAAAIAAAAAAABAAAACAA=</HashCode>
+      <FileName>AdvancedEnum\EnumTypeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.Class1" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.DriverManager" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAAEAAQCCACACAAAAAgIAAAAAAAAAAABA=</HashCode>
+      <FileName>DriverManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.CheckboxLocator">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locators\CheckboxLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.Fragment">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgACACAAAQAIACACMQAAAAAABAAAAAAEAAAACAEA=</HashCode>
+      <FileName>Locators\Fragment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.Locator">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Teresa.Locator.HtmlByCustom" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Locators\Locator.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABQAAAABBgAAIAJESAAAUCAAAAAAAAEAEAAAQAAAAAA=</HashCode>
+      <FileName>Locators\Locator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.Page">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQCAAAACAggQQAAAQACAAAAgAAAAARAgAAAAI=</HashCode>
+      <FileName>Locators\Page.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Teresa.RadioLocator">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locators\RadioLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.SelectLocator">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAKAAAAAAAEAAAAAAAAEAAAABAAAI=</HashCode>
+      <FileName>Locators\SelectLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.TableLocator">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAACAAAAAAASAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Locators\TableLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.TextLocator">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locators\TextLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.GenericWait&lt;T&gt;" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\GenericWait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teresa.Wait" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAQGACCAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Wait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Teresa.HtmlTagName" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JVhACAgQEQABAMAgAQEBQAEAAAAAhHAgkAAGaINRICI=</HashCode>
+      <FileName>AdvancedEnum\HtmlTagName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Teresa.Mechanisms" Collapsed="true">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAgAWQIAAAAAAAACACAAAAgAgAACCAAAAAIAACAg=</HashCode>
+      <FileName>AdvancedEnum\Mechanisms.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Teresa.WebDriverTypes" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAIAAAAAEQAAAAAgAAIAAAAAAUAAAAAAAA=</HashCode>
+      <FileName>DriverManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
