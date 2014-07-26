@@ -40,7 +40,7 @@ very reliable to use such relationships with more significant elements.
 If the targets element are to be mapped to Locator instances instead of TexLocator/SelectLocator/..., and they 
 are the only visible child of their container, then locating the parent shall be sufficient to support actions 
 like “click”, “hover” and “highlight”. “ListItemAllByClass.action_menu_item” in previous section is a good example, 
-the “click” action on the IWebElement referred by it actually happen on the its only child <a class=”f1” href=...>.
+the “click” action on the IWebElement referred by it actually happen on the its only child.
 Some commonly used attributes, such as “name”/”href”/”value”, can be very helpful to show the meaning or reason of 
 the locating, especially when you have some codes using them.
 Sometime, elements may lack significant feature to distinguish them from others, then some other uncommon attributes 
